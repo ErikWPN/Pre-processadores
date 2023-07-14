@@ -26,3 +26,7 @@ Referência: https://sass-lang.com/
 ## Partials
 - Modularizar o código
 - snippets
+
+# EXERCICIO
+- Dentro da pasta rode o comando
+'npm install'
